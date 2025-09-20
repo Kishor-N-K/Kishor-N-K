@@ -1,5 +1,5 @@
-<h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> 
- <></h1> <b>Hi 👋, i'm Kishor N K<b><br><br>I'm a website designer 
+<h1 align="center"> Hi 👋🏻, I'm Kishor N K </br> 
+I'm a website designer 
 
 
 ## 🌐 Socials:
