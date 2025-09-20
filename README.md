@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Kishor N K </br> 
-I'm a website designer 
+</h1>
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p> 
 
 
 ## 🌐 Socials:
