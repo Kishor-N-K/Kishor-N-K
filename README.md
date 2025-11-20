@@ -15,7 +15,8 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kishor-N-K&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishor-N-K&show_icons=true)
+<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kishor-N-K&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-N-K&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
