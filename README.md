@@ -11,6 +11,10 @@
 [Kishor N K - Portfolio](https://kishor-n-k.github.io/Portfolio/Resume/) ,
 </> and Crafted with 💙 by Kishor N K
 
+### FlipVerse
+<a href="https://flipversepro.netlify.app/">FlipVerse</a> FlipVerse is a fun and minimal website where you can flip or toss a coin with smooth animation and sound. Created just for fun and fully open-source on GitHub.
+
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
