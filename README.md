@@ -38,5 +38,6 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kishor-N-K/Kishor-N-K/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Profile views](https://komarev.com/ghpvc/?username=Kishor-N-K)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kishor-N-K&label=%3C%2F%3E%20Profile%20Views&color=green)
 
