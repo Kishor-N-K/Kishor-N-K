@@ -12,7 +12,7 @@
 </> and Crafted with 💙 by Kishor N K
 
 ### FlipVerse
-<a href="https://flipversepro.netlify.app/">FlipVerse</a>  is a fun and minimal website where you can flip or toss a coin with smooth animation and sound. Created just for fun and fully open-source on <a href="Kishor-N-K/FlipVerse"> GitHub</a>.
+<a href="https://flipversepro.netlify.app/">FlipVerse</a>  is a fun and minimal website where you can flip or toss a coin with smooth animation and sound. Created just for fun and fully open-source on <a href="FlipVerse"> GitHub</a>.
 
 
 
