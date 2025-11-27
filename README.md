@@ -8,7 +8,7 @@
 
 ## Creation 👨‍💻
 ###   Portfolio 
-[Kishor N K - Portfolio](kishor-n-k.github.io/Portfolio/Resume) ,
+[Kishor N K - Portfolio](https://kishor-n-k.github.io/Portfolio/Resume/) ,
 </> and Crafted with 💙 by Kishor N K
 
 
