@@ -8,7 +8,7 @@
 
 ## Creation 👨‍💻
 ###   Portfolio 
-[Kishor N K - Portfolio](kishornk.me) ,
+<a href="kishornk.me">Kishor N K - Portfolio<a> ,
 </> and Crafted with 💙 by Kishor N K
 
 ### FlipVerse
