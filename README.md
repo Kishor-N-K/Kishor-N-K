@@ -14,7 +14,7 @@
 ### FlipVerse
 <a href="https://flipversepro.netlify.app/">FlipVerse</a>  is a fun and minimal website where you can flip or toss a coin with smooth animation and sound. Created just for fun and fully open-source on <a href="https://github.com/Kishor-N-K/FlipVerse"> GitHub</a>.
 
-## AgriSure
+### AgriSure
 <a href="www.agrisure.app">AgriSure</a> : is an AI-driven crop disease prediction and management system designed to help farmers detect plant diseases early, receive actionable treatment recommendations, and improve overall farm productivity.This project is for educational and demonstration purposes.
 
 
